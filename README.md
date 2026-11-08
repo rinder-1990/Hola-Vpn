@@ -201,3 +201,6 @@ This repository serves as the official landing page for Hola VPN. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hola VPN today!**
+
+---
+**Last updated:** 2026-11-08 23:22:15 UTC
