@@ -203,4 +203,4 @@ This repository serves as the official landing page for Hola VPN. The software i
 **Get the most recent version of Hola VPN today!**
 
 ---
-**Last updated:** 2026-11-11 23:15:02 UTC
+**Last updated:** 2026-11-12 05:17:51 UTC
